@@ -1,0 +1,115 @@
+===========================request begin================================================ 
+ URI : /getReferralLink
+ METHOD : POST
+ FROM : 127.0.0.1:43465
+ Headers : 
+ Content-Type="[application/json]"
+Authorization="[Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMSIsImlhdCI6MTU3OTUwMTI3MywiZXhwIjoxNTc5NTg3NjczLCJhdWQiOiJodHRwOi8vMTg1LjIwNC4xMTguMTgiLCJpc3MiOiJicGF5X2dhdGUiLCJzdWIiOiI5ODkifQ.MUX84J1qAj6Bs8eyx3Lo4QfO5qGaRkDVCR7O2C4Rw-HVJwR8dJVdqZsP1JuRvPYt3zPJzvvOSGTPVzZF8RFj3URSeLfabGUFac7-iHcCRIV6Wa4AZ849H7IiuvzRsHef82Fy3eGDq9roXJdZpSVELVajbmvVg1y1dy7nGW03KCLMjYTbx9O32VqgMedDYt4vqT-K8BqJNiLLUnE1QtL3k6s1QkXRj65JUAjsTrvWlg8SICnd05nUOLFrfHUUsU58KA9JNIqsAifJAvk5dy4QCZ8bePSMNPcUHDbw2jVelDUghi6GeRI-65QYtEkMoRsZYhIzyo5_kUiRRp4qz5FO3Q]"
+Accept="[*/*]"
+Content-Length="[58]"
+User-Agent="[PostmanRuntime/7.21.0]"
+Cache-Control="[no-cache]"
+Postman-Token="[cf14f829-9096-44c6-9e30-18a7837502cb]"
+Accept-Encoding="[gzip, deflate]"
+Connection="[keep-alive]"
+ Date : 2020-01-20 10:41:02.7957053 +0300 +03 m=+4.943864201
+ Request Body : 
+ ===========================request  end================================================== 
+ ===========================response begin================================================ 
+ Status Code : 400
+ Status Text : Bad Request
+ Headers :  Content-Type="[application/json]"
+ ===========================response end================================================== 
+
+===========================request begin================================================ 
+ URI : /getReferralLink
+ METHOD : POST
+ FROM : 127.0.0.1:43465
+ Headers : 
+ Content-Type="[application/json]"
+User-Agent="[PostmanRuntime/7.21.0]"
+Postman-Token="[0b320854-b2c0-4e23-92f1-f39b88cef1c9]"
+Connection="[keep-alive]"
+Authorization="[Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMSIsImlhdCI6MTU3OTUwMTI3MywiZXhwIjoxNTc5NTg3NjczLCJhdWQiOiJodHRwOi8vMTg1LjIwNC4xMTguMTgiLCJpc3MiOiJicGF5X2dhdGUiLCJzdWIiOiI5ODkifQ.MUX84J1qAj6Bs8eyx3Lo4QfO5qGaRkDVCR7O2C4Rw-HVJwR8dJVdqZsP1JuRvPYt3zPJzvvOSGTPVzZF8RFj3URSeLfabGUFac7-iHcCRIV6Wa4AZ849H7IiuvzRsHef82Fy3eGDq9roXJdZpSVELVajbmvVg1y1dy7nGW03KCLMjYTbx9O32VqgMedDYt4vqT-K8BqJNiLLUnE1QtL3k6s1QkXRj65JUAjsTrvWlg8SICnd05nUOLFrfHUUsU58KA9JNIqsAifJAvk5dy4QCZ8bePSMNPcUHDbw2jVelDUghi6GeRI-65QYtEkMoRsZYhIzyo5_kUiRRp4qz5FO3Q]"
+Accept="[*/*]"
+Cache-Control="[no-cache]"
+Accept-Encoding="[gzip, deflate]"
+Content-Length="[29]"
+ Date : 2020-01-20 10:41:09.2058672 +0300 +03 m=+11.354026101
+ Request Body : 
+ ===========================request  end================================================== 
+ ===========================response begin================================================ 
+ Status Code : 200
+ Status Text : OK
+ Headers :  Content-Type="[application/json]"
+ ===========================response end================================================== 
+
+===========================request begin================================================ 
+ URI : /getReferralLink
+ METHOD : POST
+ FROM : 127.0.0.1:43465
+ Headers : 
+ Postman-Token="[59ac9649-2fcc-4c48-9b71-f088b1fece3d]"
+Accept-Encoding="[gzip, deflate]"
+Content-Length="[52]"
+Connection="[keep-alive]"
+User-Agent="[PostmanRuntime/7.21.0]"
+Cache-Control="[no-cache]"
+Accept="[*/*]"
+Content-Type="[application/json]"
+Authorization="[Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMSIsImlhdCI6MTU3OTUwMTI3MywiZXhwIjoxNTc5NTg3NjczLCJhdWQiOiJodHRwOi8vMTg1LjIwNC4xMTguMTgiLCJpc3MiOiJicGF5X2dhdGUiLCJzdWIiOiI5ODkifQ.MUX84J1qAj6Bs8eyx3Lo4QfO5qGaRkDVCR7O2C4Rw-HVJwR8dJVdqZsP1JuRvPYt3zPJzvvOSGTPVzZF8RFj3URSeLfabGUFac7-iHcCRIV6Wa4AZ849H7IiuvzRsHef82Fy3eGDq9roXJdZpSVELVajbmvVg1y1dy7nGW03KCLMjYTbx9O32VqgMedDYt4vqT-K8BqJNiLLUnE1QtL3k6s1QkXRj65JUAjsTrvWlg8SICnd05nUOLFrfHUUsU58KA9JNIqsAifJAvk5dy4QCZ8bePSMNPcUHDbw2jVelDUghi6GeRI-65QYtEkMoRsZYhIzyo5_kUiRRp4qz5FO3Q]"
+ Date : 2020-01-20 10:41:28.4666045 +0300 +03 m=+30.614763401
+ Request Body : 
+ ===========================request  end================================================== 
+ ===========================response begin================================================ 
+ Status Code : 200
+ Status Text : OK
+ Headers :  Content-Type="[application/json]"
+ ===========================response end================================================== 
+
+===========================request begin================================================ 
+ URI : /getReferralLink
+ METHOD : POST
+ FROM : 127.0.0.1:43465
+ Headers : 
+ User-Agent="[PostmanRuntime/7.21.0]"
+Accept="[*/*]"
+Cache-Control="[no-cache]"
+Postman-Token="[ddd95a9e-7a20-4aec-ab69-2950fe92098c]"
+Content-Length="[52]"
+Content-Type="[application/json]"
+Authorization="[Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMSIsImlhdCI6MTU3OTUwMTI3MywiZXhwIjoxNTc5NTg3NjczLCJhdWQiOiJodHRwOi8vMTg1LjIwNC4xMTguMTgiLCJpc3MiOiJicGF5X2dhdGUiLCJzdWIiOiI5ODkifQ.MUX84J1qAj6Bs8eyx3Lo4QfO5qGaRkDVCR7O2C4Rw-HVJwR8dJVdqZsP1JuRvPYt3zPJzvvOSGTPVzZF8RFj3URSeLfabGUFac7-iHcCRIV6Wa4AZ849H7IiuvzRsHef82Fy3eGDq9roXJdZpSVELVajbmvVg1y1dy7nGW03KCLMjYTbx9O32VqgMedDYt4vqT-K8BqJNiLLUnE1QtL3k6s1QkXRj65JUAjsTrvWlg8SICnd05nUOLFrfHUUsU58KA9JNIqsAifJAvk5dy4QCZ8bePSMNPcUHDbw2jVelDUghi6GeRI-65QYtEkMoRsZYhIzyo5_kUiRRp4qz5FO3Q]"
+Connection="[keep-alive]"
+Accept-Encoding="[gzip, deflate]"
+ Date : 2020-01-20 10:41:34.6485382 +0300 +03 m=+36.796697101
+ Request Body : 
+ ===========================request  end================================================== 
+ ===========================response begin================================================ 
+ Status Code : 200
+ Status Text : OK
+ Headers :  Content-Type="[application/json]"
+ ===========================response end================================================== 
+
+===========================request begin================================================ 
+ URI : /getReferralLink
+ METHOD : POST
+ FROM : 127.0.0.1:43465
+ Headers : 
+ Authorization="[Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiMSIsImlhdCI6MTU3OTUwMTI3MywiZXhwIjoxNTc5NTg3NjczLCJhdWQiOiJodHRwOi8vMTg1LjIwNC4xMTguMTgiLCJpc3MiOiJicGF5X2dhdGUiLCJzdWIiOiI5ODkifQ.MUX84J1qAj6Bs8eyx3Lo4QfO5qGaRkDVCR7O2C4Rw-HVJwR8dJVdqZsP1JuRvPYt3zPJzvvOSGTPVzZF8RFj3URSeLfabGUFac7-iHcCRIV6Wa4AZ849H7IiuvzRsHef82Fy3eGDq9roXJdZpSVELVajbmvVg1y1dy7nGW03KCLMjYTbx9O32VqgMedDYt4vqT-K8BqJNiLLUnE1QtL3k6s1QkXRj65JUAjsTrvWlg8SICnd05nUOLFrfHUUsU58KA9JNIqsAifJAvk5dy4QCZ8bePSMNPcUHDbw2jVelDUghi6GeRI-65QYtEkMoRsZYhIzyo5_kUiRRp4qz5FO3Q]"
+User-Agent="[PostmanRuntime/7.21.0]"
+Accept="[*/*]"
+Cache-Control="[no-cache]"
+Connection="[keep-alive]"
+Content-Type="[application/json]"
+Postman-Token="[e0d535a2-7200-40d8-bddc-6b2fd8696c6a]"
+Accept-Encoding="[gzip, deflate]"
+Content-Length="[53]"
+ Date : 2020-01-20 10:41:37.390606 +0300 +03 m=+39.538764901
+ Request Body : 
+ ===========================request  end================================================== 
+ ===========================response begin================================================ 
+ Status Code : 400
+ Status Text : Bad Request
+ Headers :  Content-Type="[application/json]"
+ ===========================response end================================================== 
+
